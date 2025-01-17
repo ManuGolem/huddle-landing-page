@@ -100,3 +100,36 @@ li:hover{
 .face:hover ,.x:hover,.ins:hover{
     filter: invert(77%) sepia(39%) saturate(1872%) hue-rotate(244deg) brightness(96%) contrast(89%);
 }
+@media (max-width:800px){
+    body{
+        display: flex;
+        flex-direction: column;
+        overflow: visible;
+    }
+    .page-content{
+        flex-direction: column;
+    }
+    .page{
+        height: auto;
+        padding: 1rem;
+    }
+    h1{
+        font-size: 28px;
+        
+    }
+    .container{
+        width: 100%;
+        text-align: center;
+    }
+    .info{
+        padding: 0;
+    }
+    .iconos{
+        padding: 0;
+        justify-content: center;
+        padding-top:1rem;
+    }
+    ul{
+        padding: 0;
+    }
+}

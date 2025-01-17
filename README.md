@@ -23,11 +23,11 @@ Users should be able to:
 
 - Desktop :
 
-![Img desktop]()
+![Img desktop](images/desktop-preview.png)
 
 - Mobile:
 
-![Img Mobile]()
+![Img Mobile](images/mobile-preview.png)
 ### Links
 - Live Site URL: [recipe-page](https://manugolem.github.io/huddle-landing-page/)
 ## My process
