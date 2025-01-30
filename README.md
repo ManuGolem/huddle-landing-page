@@ -29,7 +29,7 @@ Users should be able to:
 
 ![Img Mobile](images/mobile-preview.png)
 ### Links
-- Live Site URL: [recipe-page](https://manugolem.github.io/huddle-landing-page/)
+- Live Site URL: [huddle-landing](https://manugolem.github.io/huddle-landing-page/)
 ## My process
 ### Built with
 - HTML5
